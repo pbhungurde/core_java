@@ -3,4 +3,5 @@
 This repository contains Core Java practice programs.
 ## Topics Covered:
 - Basics
-- Author: Pragati Gund
+
+Author: Pragati Gund
